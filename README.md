@@ -1,2 +1,3 @@
 # MiniProject
-#PhoneBook Management System using c++ language and datastructure used are singly Linked list and stack
+#PhoneBook Management System using c++ language.
+#Singly Linked list and Stack Datastructure are used.
